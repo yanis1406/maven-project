@@ -4,7 +4,7 @@ package com.example;
 public class Greeter {
 
   
-  public voida Greeter() {
+  public Greeter() {
 
   }
 
